@@ -8,7 +8,7 @@ import reducers from './reducers';
 
 const createStoreWithMiddleware = applyMiddleware()(createStore);
 
-
+// add new comment line
 
 // comment on pull request
 ReactDOM.render(
