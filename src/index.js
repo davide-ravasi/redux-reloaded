@@ -9,6 +9,7 @@ import reducers from './reducers';
 const createStoreWithMiddleware = applyMiddleware()(createStore);
 
 // add new comment line
+// add add add
 
 // comment on pull request
 ReactDOM.render(
